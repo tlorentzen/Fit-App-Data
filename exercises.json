@@ -1,6 +1,11 @@
 {
-  version: "0.1.0",
-  exercises: [
-    
+  "version": "0.1.0",
+  "exercises": [
+    {
+      "uuid": "",
+      "name": "Push Ups",
+      "description": "",
+      "required_sensors": 5
+    }
   ]
 }
