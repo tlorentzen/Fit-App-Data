@@ -5,7 +5,7 @@
       "uuid": "f617fe61-81e4-4969-bd32-7dedb422e1b2",
       "name": "Push Ups",
       "short_description": "",
-      "long_description": "https://somesite.dk/exercise-{id}.md"
+      "long_description": "https://somesite.dk/exercise-{id}.md",
       "required_sensors": 5
     }
   ]
